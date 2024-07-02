@@ -5,7 +5,6 @@
 
 - Announcement post: [LinkedIn](https://www.linkedin.com/posts/gautam-grover-24ab63281_github-themistokles-2137100daysofcode-activity-7205915155539349505-vS8s?utm_source=share&utm_medium=member_desktop)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
